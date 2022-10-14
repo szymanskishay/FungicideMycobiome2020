@@ -1,1 +1,4 @@
-Packages belong to their owners. Do not use for commercial purposes. Code used to generate data for a manuscript that is to be made public domain.
+#Packages belong to their owners. Do not use for commercial purposes
+#Code used to generate data and figures for a manuscript in phytobiomes. Do not use for purposes other than data verification without permission (see line 4 for exceptions)
+#The folder Core Datas are products of other programs and processes using data that is publically available by NCBI. The code is reliant on these altered versions. Do not use for purposes other than data verification without permission.
+#Code is free to be copied and adapted without attribution for non-commercial purposes if it is being used with other data sets and the study context is removed (ex. Do not use it without attribution if you are re-running the same data set and trying to repost it. However, if you want to use the general script for generating boxplots from the same type of output but for a different data set, go ahead.)
